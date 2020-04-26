@@ -2,12 +2,12 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mazhuang.org
+url: https://chromehack.github.io
 date_format: "ordinal"
 title: 安全随想
-subtitle: "网络安全爱好者"
-description: "马壮的个人博客，公众号：闷骚的程序员"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang, 闷骚的程序员
+subtitle: "信息安全爱好者"
+description: "安全随想的个人博客，"
+keywords: 安全随想, 安全, chrome, hack, 程序员
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
@@ -15,11 +15,11 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
+author: 安全随想
 organization: 
 organization_url: 
-github_username: mzlogin
-location: Wuhan, China
+github_username: chromehack
+location: 广州, China
 email: chumpma@gmail.com
 
 # ---------------- #
