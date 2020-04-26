@@ -4,10 +4,10 @@
 baseurl:
 url: https://chromehack.github.io
 date_format: "ordinal"
-title: 安全随想
+title: 安全隨想
 subtitle: "信息安全爱好者"
-description: "安全随想的个人博客，"
-keywords: 安全随想, 安全, chrome, hack, 程序员
+description: "安全隨想的個人博客"
+keywords: 安全隨想, 安全, chrome, hack, 程序員
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
@@ -19,7 +19,7 @@ author: 安全随想
 organization: 
 organization_url: 
 github_username: chromehack
-location: 广州, China
+location: Hong Kong, China
 email: chromehack6@protonmail.com
 
 # ---------------- #
@@ -28,11 +28,11 @@ email: chromehack6@protonmail.com
 navs:
   -
     href: /
-    label: 首页
+    label: 首頁
 
   -
     href: /categories/
-    label: 分类
+    label: 分類
 
 #   -
 #     href: /archives/
@@ -44,15 +44,15 @@ navs:
 
   -
     href: /wiki/
-    label: 维基
+    label: 維基
 
   -
     href: /links/
-    label: 链接
+    label: 鏈接
 
   -
     href: /about/
-    label: 关于
+    label: 關於
 
 # ---------------- #
 #       RSS        #
