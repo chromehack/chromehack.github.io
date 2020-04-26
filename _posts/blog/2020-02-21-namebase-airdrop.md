@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 免責聲明
-categories: [道德黑客]
+categories: [免責聲明]
 description: 免責聲明
 keywords: GitHub, Namebase, Airdrop
 topmost: true
