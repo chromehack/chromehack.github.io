@@ -47,10 +47,6 @@ navs:
     label: 維基
 
   -
-    href: /links/
-    label: 鏈接
-
-  -
     href: /about/
     label: 關於
 
